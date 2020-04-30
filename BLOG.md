@@ -1,5 +1,6 @@
-### Title
-Jobs in west
+### Jobs In West
+![salary_comparison](pic1.png)
+
 ### Introduction
 There are many competing views when it comes to the IT career in the eastern world, specifically if you are a Software Engineer or so-called Coding Monkey.
 
