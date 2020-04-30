@@ -1,4 +1,4 @@
-### Jobs In West
+# Jobs In West
 ![salary_comparison](pic1.png)
 
 ### Introduction
